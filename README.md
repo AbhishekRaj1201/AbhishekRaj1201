@@ -1,5 +1,5 @@
 
-<img align="center" alt="Heading" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<img align="center" alt="Heading" src="https://cdn-images-1.medium.com/v2/resize:fit:1024/1*rB-3Q2k7o9qk8IyAzx-TRA.gif">
 
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
