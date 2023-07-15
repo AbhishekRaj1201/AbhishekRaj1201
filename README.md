@@ -1,8 +1,8 @@
 
-<img align="center" alt="Heading" src="https://cdn-images-1.medium.com/v2/resize:fit:1024/1*rB-3Q2k7o9qk8IyAzx-TRA.gif">
+<img align="center" alt="Heading" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSggt23v1_a6RsbVzgQ3uIiv9Tlaj-Vwx9xb34cmfhtXW9jt4uCojsUYo_nMA9wJpWQ&usqp=CAU">
 
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend & Game developer from India</h3>
 <br> <br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj1201&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj1201" /> </p>
