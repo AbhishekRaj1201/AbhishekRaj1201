@@ -1,10 +1,9 @@
-<img align="centre" height="100" src="![head](https://github.com/AbhishekRaj1201/E-Commerce-Sales-DashBoard/assets/88674655/5b7b6f86-861a-407c-b793-cc47101d1f05)
-">
+
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
 <h3 align="center">A passionate Data Analyst & Game developer from India</h3>
 <br> <br>
 
-![it](https://github.com/AbhishekRaj1201/E-Commerce-Sales-DashBoard/assets/88674655/145a6f8f-8b19-457d-bfb3-32594119992a)
+<img src="![it](https://github.com/AbhishekRaj1201/E-Commerce-Sales-DashBoard/assets/88674655/145a6f8f-8b19-457d-bfb3-32594119992a)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj1201&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1GnW5rvdIxoVhyUr-O1oCk&ust=1707670284451000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJirjtidoYQDFQAAAAAdAAAAABAK)" alt="abhishekraj1201" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishek_111001" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_111001?logo=twitter&style=for-the-badge" alt="abhishek_111001" /></a> </p>
