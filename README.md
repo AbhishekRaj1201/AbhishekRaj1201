@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Brawl-Stats](https://trybrawlstats.netlify.app/)
 
-- 🌱 I’m currently learning **MySQL, Javascript**
+- 🌱 I’m currently learning **MySQL, Tableau**
 
 - 💬 Ask me about **Python, HTML, CSS**
 
