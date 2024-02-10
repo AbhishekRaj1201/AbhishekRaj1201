@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MySQL, Tableau**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, Power BI, SQL**
 
 - 📫 How to reach me **abhishekraj111001@gmail.com**
 
