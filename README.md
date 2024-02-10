@@ -1,6 +1,5 @@
 ![head](https://github.com/AbhishekRaj1201/E-Commerce-Sales-DashBoard/assets/88674655/5b7b6f86-861a-407c-b793-cc47101d1f05)
 
-<img align="center" alt="Heading" width="1000" src="https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg">
 
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
 <h3 align="center">A passionate Data Analyst & Game developer from India</h3>
