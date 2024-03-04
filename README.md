@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek_111001" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_111001?logo=twitter&style=for-the-badge" alt="abhishek_111001" /></a> </p>
 
-- 🔭 I’m currently working on [Brawl-Stats](https://trybrawlstats.netlify.app/)
+- 🔭 I’m currently working on **DATA**
 
-- 🌱 I’m currently learning **MySQL, Tableau**
+- 🌱 I’m currently learning **Machine Learning, SQL**
 
 - 💬 Ask me about **Python, Power BI, SQL**
 
