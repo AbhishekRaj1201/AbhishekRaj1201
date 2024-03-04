@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
 <h3 align="center">A passionate Data Analyst & Game developer from India</h3>
 <br> <br>
+![Black Modern Personal LinkedIn Banner](https://github.com/AbhishekRaj1201/E-Commerce-Sales-DashBoard/assets/88674655/2cb72d37-0263-4051-9bf4-dc45c7e2c8c4)
 
-![it](https://github.com/AbhishekRaj1201/E-Commerce-Sales-DashBoard/assets/88674655/145a6f8f-8b19-457d-bfb3-32594119992a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj1201&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1GnW5rvdIxoVhyUr-O1oCk&ust=1707670284451000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJirjtidoYQDFQAAAAAdAAAAABAK)" alt="abhishekraj1201" /> </p>
 
